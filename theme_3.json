@@ -125,5 +125,19 @@
     ],
     "createdAt": 1786683967,
     "isPublic": true
+  },
+  {
+    "id": "000007721024",
+    "fileName": "cherry_sticker.jpg",
+    "packageId": "com.xuanthai.CherrySticker",
+    "name": "❤️Mun❤️ Cherry Sticker ~❤️ Premium Theme the sweetness of cherries",
+    "tags": [
+      "cherry",
+      "sticker",
+      "sweetness",
+      "cherries"
+    ],
+    "createdAt": 1786770370,
+    "isPublic": true
   }
 ]
